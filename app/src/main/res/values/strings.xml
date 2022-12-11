@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FDJ App</string>
+    <string name="toast_message">No league found</string>
+    <string name="back">Back</string>
+</resources>
